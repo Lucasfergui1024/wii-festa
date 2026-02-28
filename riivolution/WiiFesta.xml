@@ -12,7 +12,7 @@
 </options>
 
 <patch id="wii_festa_patch">
-	<folder external="/Wii Festa" recursive="true" />
-	<folder external="/Wii Festa" disc="/" />
+	<folder external="/WiiFesta" recursive="false" />
+	<folder external="/WiiFesta" disc="/" />
 </patch>
 </wiidisc>
