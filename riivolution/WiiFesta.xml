@@ -1,0 +1,18 @@
+<wiidisc version="1">
+	<id game="SUPP" />
+
+	<options>
+	<section name="Wii Festa Galician Translation">
+	<option name="Enabled">
+	<choice name="Enabled">
+	<patch id="wii_festa_patch" />
+</choice>
+</option>
+</section>
+</options>
+
+<patch id="wii_festa_patch">
+	<folder external="/Wii Festa" recursive="true" />
+	<folder external="/Wii Festa" disc="/" />
+</patch>
+</wiidisc>
