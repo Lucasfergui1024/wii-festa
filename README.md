@@ -5,4 +5,4 @@ Se sabes como editar o texto que esta na forma de texturas avisa plsssssssssss
 
 NON TOCAR O MESS.BIN.ORIGINAL
 
-Seccións traducidas: 01/72
+Seccións traducidas: 21/72
