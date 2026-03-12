@@ -9,4 +9,5 @@ Seccións traducidas: 21/72
 
 A facer:
 - Traducir todo o mess.bin
+- Tras traducir o mess.bin facer un release en forma de parche
 - Averiguar como facer que este mod funcione en Riivolution 
