@@ -6,3 +6,7 @@ Se sabes como editar o texto que esta na forma de texturas avisa plsssssssssss
 NON TOCAR O MESS.BIN.ORIGINAL
 
 Seccións traducidas: 21/72
+
+A facer:
+- Traducir todo o mess.bin
+- Averiguar como facer que este mod funcione en Riivolution 
