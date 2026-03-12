@@ -1,5 +1,5 @@
 # Wii Festa
-Para contribuir, edita o arquivo mess.bin no unico cartafol deste repo con party espionage https://archive.org/details/party-espionage
+Para contribuir, edita o arquivo mess.bin no cartafol /WiiFesta/locale/sp_EU deste repo con party espionage https://archive.org/details/party-espionage
 
 Se sabes como editar o texto que esta na forma de texturas avisa plsssssssssss
 
